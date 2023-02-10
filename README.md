@@ -50,3 +50,14 @@ English and Korean will be showed together in this repository
 6. git log
 
     깃의 커밋 목록을 확인할 수 있다.
+
+
+## intelij
+
+> 인텔리제이에서는 gui로 git 을 제공한다.
+
+툴바에 git 
+    commit
+    push
+    fetch
+    pull
