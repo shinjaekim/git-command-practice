@@ -61,3 +61,7 @@ English and Korean will be showed together in this repository
     push
     fetch
     pull
+
+## todo
+rebase에 대해 알아보기
+fast forward 알아보기
