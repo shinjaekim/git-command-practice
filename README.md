@@ -64,4 +64,9 @@ English and Korean will be showed together in this repository
 
 ## todo
 rebase에 대해 알아보기
+    hard rebase
+    soft rebase
 fast forward 알아보기
+
+gui 찾아보고 적용해보기
+
