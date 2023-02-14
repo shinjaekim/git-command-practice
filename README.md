@@ -72,3 +72,10 @@ gui 찾아보고 적용해보기
 
 오늘은 하나
 
+git convention
+
+add. adding something about function
+refactor. fix not related to function
+fix. fix function things
+
+
