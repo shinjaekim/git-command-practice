@@ -77,5 +77,8 @@ git convention
 add. adding something about function
 refactor. fix not related to function
 fix. fix function things
+comment 
+
+
 
 
