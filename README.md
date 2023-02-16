@@ -79,6 +79,7 @@ refactor. fix not related to function
 fix. fix function things
 comment 
 
+rebase and merge
+rebase 는 커밋 히스토리의 정렬
 
-
-
+merge는 헤더를 바꾼다.
