@@ -83,3 +83,6 @@ rebase and merge
 rebase 는 커밋 히스토리의 정렬
 
 merge는 헤더를 바꾼다.
+
+머지는 패스트포워드
+리베이스는 커밋정렬
